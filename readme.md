@@ -28,5 +28,5 @@ Study project. HTML, CSS, JS, several libraries and modules are connected. The m
 
 ## Get in Touch
 
-- [Email](Fellis-a@yandex.ru)
+- Email: Fellis-a@yandex.ru
 
