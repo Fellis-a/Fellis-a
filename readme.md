@@ -8,7 +8,7 @@ I'm a beginner in frontend development, but I've been working as a teaching assi
 
 - HTML/CSS
 - JavaScript (ES6+)
-- Frameworks and libraries such as React.js, Vue.js
+- Frameworks and libraries such as Vue.js
 - Responsive and cross-browser interface development
 - Database management (MySQL)
 - etc.
